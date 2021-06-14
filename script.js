@@ -17,6 +17,12 @@ const updatePlayIcon = () => {
     return true;
 }
 
+// update progress and time stamp
+
+const updateProgress = () => {
+    
+}
+
 
 // Event Listenders
 video.addEventListener('click', toggleVideoStatus);
