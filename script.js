@@ -20,7 +20,7 @@ const updatePlayIcon = () => {
 // update progress and time stamp
 
 const updateProgress = () => {
-    
+    return true;
 }
 
 
